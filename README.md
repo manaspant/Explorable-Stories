@@ -1,2 +1,4 @@
 # Explorable-Stories
-Jterm 2018
+
+The fundamental building blocks of good storytelling have remained consistent throughout history. What constantly changes though are the technologies, including tools, mediums and platforms, through which stories are communicated. In this class, we will utilize today's dominant mode of communication, the world wide web, to create and share stories that are engaging, interactive, and "explorable". Combining traditional writing skills with modern web javascript libraries and other multi-media tools, students will learn how to write, design, and code their own 21st century digital stories. These stories may take a variety of forms including creative fiction, journalistic non-fiction, educational lessons, or personalized accounts. The work will be inspired and influenced by our time in Shanghai, but will address a global audience. The goal will be for each student to iteratively produce their own compelling explorable piece that lives on the web and can be shared universally. Some web development or coding experience is preferable but not required.
+PLEASE NOTE: This course is open to NYU Abu Dhabi students only.
