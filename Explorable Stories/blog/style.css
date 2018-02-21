@@ -1,0 +1,74 @@
+body{
+	font-family: 'Indie Flower', cursive;
+}
+
+.all-blogs{
+  font-family: 'Quicksand', sans-serif;
+}
+
+h1{
+	text-align: center;
+}
+
+.blog-masthead {
+  margin-bottom: 3rem;
+  background-color: white;
+/*  border-bottom: .05rem solid #eee;
+*/
+}
+
+h3{
+	text-align: center;
+}
+
+.blog5, .blog4, .blog3, .blog2, .blog1{
+	margin-left: 1rem;
+	margin-right: 5rem;
+}
+
+/* Nav links */
+.nav-link {
+  position: relative;
+  padding: 1rem;
+  font-weight: 500;
+  font-size: 1rem;
+  color: black;
+}
+.nav-link: hover, .nav-link: focus {
+  color: #fff;
+  background-color: transparent;
+}
+
+/* Active state gets a caret at the bottom */
+.nav-link.active {
+  color: #fff;
+}
+.nav-link.active::after {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  width: 0;
+  height: 0;
+  margin-left: -.3rem;
+  vertical-align: middle;
+  content: "";
+  border-right: .3rem solid transparent;
+  border-bottom: .3rem solid;
+  border-left: .3rem solid transparent;
+}
+
+/*
+ * Blog name
+ */
+.blog-header {
+  margin-top: 
+  padding-bottom: 1.25rem;
+  margin-bottom: 2rem;
+}
+.blog-title {
+  margin-top: 0;
+  margin-left: 1rem;
+  font-size: 2.5rem;
+  font-weight: 500;
+  text-align: left;
+}

@@ -1,0 +1,58 @@
+body{
+	font-family: 'Indie Flower', cursive;
+  background-color: white;
+}
+
+.main-container{
+	max-width: 1080px;
+	width: 90%;
+	margin: 0 auto;
+}
+
+.blog-masthead {
+  margin-bottom: 3rem;
+  background-color: white;
+}
+
+/* Nav links */
+.nav-link {
+  position: relative;
+  padding: 1rem;
+  font-weight: 500;
+  font-size: 1rem;
+  color: black;
+}
+.nav-link: hover, .nav-link: focus {
+  color: #fff;
+  background-color: blue;
+}
+
+/* Active state gets a caret at the bottom */
+
+/*
+ * Blog name
+ */
+.blog-header {
+  margin-top: 
+  padding-bottom: 1.25rem;
+  margin-bottom: 2rem;
+}
+.blog-title {
+  margin-top: 0;
+  margin-left: 1rem;
+  font-size: 2.5rem;
+  font-weight: 500;
+  text-align: left;
+}
+
+.intro{
+  font-family: 'Quicksand', sans-serif;
+  text-align: left;
+}
+
+.fix{
+  position:fixed;
+  bottom:0px;
+  right:0px;
+  height: 30%;
+}
